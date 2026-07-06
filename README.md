@@ -81,6 +81,12 @@ Aplicar os conceitos estudados na disciplina de Algoritmos e Estruturas de Dados
 
 ## PRINTS DO SISTEMA
 
+Imagem 1: Menu Principal do Sistema
+Imagem 2: Menu de gerenciamento dos principais registros
+Imagem 3: Exemplo de CRUD do sistema
+Imagem 4: Menu de Relatórios
+Imagem 5: Relatório de pedido realizado por usuário assinante do Clube
+
 
 <img width="478" height="249" alt="Menu Principal" src="https://github.com/user-attachments/assets/71840a03-ba72-4451-a28b-aab5224a2d07" />
 
