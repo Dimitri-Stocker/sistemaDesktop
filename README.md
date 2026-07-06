@@ -81,21 +81,17 @@ Aplicar os conceitos estudados na disciplina de Algoritmos e Estruturas de Dados
 
 ## PRINTS DO SISTEMA
 
-Menu Principal:
+
 <img width="478" height="249" alt="Menu Principal" src="https://github.com/user-attachments/assets/71840a03-ba72-4451-a28b-aab5224a2d07" />
 
 
-Menu de gerenciamento dos principais registros:
 <img width="529" height="266" alt="Gerenciar" src="https://github.com/user-attachments/assets/97a0494b-6ef9-442a-8afa-932bd44ef5b4" />
 
 
-Exemplo de CRUD:
 <img width="534" height="229" alt="CRUD" src="https://github.com/user-attachments/assets/17aea63b-d47c-44ee-83bc-652ff950685e" />
 
 
-Menu de Relatórios do sistema:
 <img width="504" height="255" alt="Relatorios" src="https://github.com/user-attachments/assets/763f0fd2-cacc-47d6-b450-a5ea7b3399f4" />
 
 
-Relatório de Pedido realizado por usuário assinante do Clube:
 <img width="692" height="537" alt="Relatorio Pedido 2" src="https://github.com/user-attachments/assets/86399bc6-8b57-4761-9cf3-7f63986fac36" />
